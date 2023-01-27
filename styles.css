@@ -1,6 +1,13 @@
 * {
-    text-align: center;
     font-family: 'Courier New', Courier, monospace;
+}
+
+#title {
+    margin-bottom: 30px;
+}
+
+#title, #img-caption {
+    text-align: center;
 }
 
 #image {
@@ -17,9 +24,9 @@ p {
 #img-caption {
     font-size: 13px;
     font-weight: 700;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
-#title {
-    margin-bottom: 50px;
+#tribute-info {
+    margin: 20px;
 }
