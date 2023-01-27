@@ -13,3 +13,13 @@
 p {
     font-size: 20px;
 }
+
+#img-caption {
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+#title {
+    margin-bottom: 50px;
+}
