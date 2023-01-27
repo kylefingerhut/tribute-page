@@ -11,8 +11,8 @@
 }
 
 #image {
-    max-width: 700px;
-    max-height: auto;
+    width: max(60vw, 700px);
+    height: auto;
     margin: auto;
     display: block;
 }
