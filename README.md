@@ -1,1 +1,1 @@
-# This is for a project from FreeCodeCamp's Responsive Web Design Course. I was to make a tribute page with certain elements and IDs.
+# This is for a project from FreeCodeCamp's Responsive Web Design Course. I was to make a tribute page with certain elements and IDs. I decided to make mine about my Zadie (Yiddish for grandfather) who recently passed away. 
