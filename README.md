@@ -1,1 +1,1 @@
-# tribute-page
+# This is for a project from FreeCodeCamp's Responsive Web Design Course. I was to make a tribute page with certain elements and IDs.
